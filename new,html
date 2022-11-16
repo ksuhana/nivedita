@@ -5,7 +5,7 @@
     <style>
     #mycanvas{
     border:1px#000 solid;
-    background:#f4f4f4;
+    background:eee4;
 
     }
 
